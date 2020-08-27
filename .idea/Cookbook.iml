@@ -5,6 +5,8 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/animate_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/animate_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/animate_container_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/animate_container_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
