@@ -13,6 +13,8 @@
       <excludeFolder url="file://$MODULE_DIR$/animate_route_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/design_drawer_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/design_drawer_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/design_font_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/design_font_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/design_snackbar_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/design_snackbar_app/build" />
     </content>
