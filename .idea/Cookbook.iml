@@ -29,6 +29,8 @@
       <excludeFolder url="file://$MODULE_DIR$/form_textfield_style_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/form_validate_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/form_validate_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/gestures_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/gestures_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
