@@ -23,6 +23,8 @@
       <excludeFolder url="file://$MODULE_DIR$/design_tap_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/form_focus_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/form_focus_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/form_retrieve_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/form_retrieve_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/form_textfield_style_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/form_textfield_style_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/form_validate_app/.pub" />
