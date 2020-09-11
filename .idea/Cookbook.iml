@@ -35,6 +35,8 @@
       <excludeFolder url="file://$MODULE_DIR$/images_study_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/list_grid_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/list_grid_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/list_study_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/list_study_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
