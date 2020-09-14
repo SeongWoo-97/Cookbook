@@ -39,8 +39,11 @@
       <excludeFolder url="file://$MODULE_DIR$/list_grid_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/list_study_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/list_study_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_data_return_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_data_return_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_hero_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/navigation_hero_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_new_screen_app/.pub" />
-      <excludeFolder url="file://$MODULE_DIR$/navigation_new_screen_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_pass_argunments_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_pass_argunments_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_todo_app/.pub" />
