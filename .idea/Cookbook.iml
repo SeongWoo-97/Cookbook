@@ -48,6 +48,8 @@
       <excludeFolder url="file://$MODULE_DIR$/navigation_pass_argunments_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_todo_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/navigation_todo_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/networking_web_sockets_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/networking_web_sockets_app/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
